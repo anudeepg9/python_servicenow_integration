@@ -35,7 +35,7 @@ class snowInt:
     # Setting up ServiceNow Automation Account Credentials
     global user, password, endpoint, headers
     user = 'python_auto'
-    password = 'wMCjQ62exzt<LiVSOgqi{fD>IhQd;1qeof@Zvl2tCrE[<sU0anS5vL:5_C!ZT>_F8C;DZQS}Ytt4Hm}sZ,QY!(V<3E;4tdzCJEf)'
+    password = ' YOUR PASSWORD '
     endpoint = 'https://dev141170.service-now.com/api/now/table/x_58872_needit_needit'
     # Set proper headers
     headers = {"Content-Type":"application/json","Accept":"application/json"}
